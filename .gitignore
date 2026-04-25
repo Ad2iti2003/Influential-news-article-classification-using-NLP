@@ -1,0 +1,19 @@
+# Models
+*.pkl
+*.safetensors
+*.bin
+
+# Data
+*.csv
+data/
+models/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# VS Code
+.vscode/
